@@ -34,7 +34,8 @@ Q1- Write a multithreaded program that generates the Fibonacci series. This prog
 
 Q2- A C program to show multiple threads with local, global and static variables. Create three threads and print the value of the static, global and local variable.
 
-Assignment-6
+  Assignment-6
+  
 Experiment1-ImplementBinaryandcountingsemaphore.
 
 Experiment2-ImplementPeterson’sAlgorithminProcessSynchronizationusingmultiprocessorfork()systemcall.
