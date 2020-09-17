@@ -41,3 +41,10 @@ Experiment1-ImplementBinaryandcountingsemaphore.
 Experiment2-ImplementPeterson’sAlgorithminProcessSynchronizationusingmultiprocessorfork()systemcall.
 
 Experiment3-Demonstratetheraceconditionusingfork()systemcall.
+
+Assignment-7
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Q1-Write a code for Producer and Consumer classical process synchronization code
+
+Q2-Write a code for Reader and Writer classical process synchronization code
+
