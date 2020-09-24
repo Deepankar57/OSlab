@@ -48,3 +48,6 @@ Q1-Write a code for Producer and Consumer classical process synchronization code
 
 Q2-Write a code for Reader and Writer classical process synchronization code
 
+Assignment-8
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Q1-Dining Philosophers Problem
